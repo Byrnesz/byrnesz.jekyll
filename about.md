@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+That first bit about me was so long I'm not sure I can fit any more information on this page!
+May I suggest this link <a href="https://about.me/byrnes" rel="category tag">about.me/byrnes</a>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mbyrnes@protonmail.com](mailto:mbyrnes@protonmail.com)
