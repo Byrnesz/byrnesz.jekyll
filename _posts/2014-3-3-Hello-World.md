@@ -3,7 +3,7 @@ layout: post
 title: Blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+It’s time I start to configure and use my wiz-bang cool Jekyll site.  Only been 2 years!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
