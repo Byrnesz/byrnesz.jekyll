@@ -1,0 +1,28 @@
+---
+title: Can Motivation Be Hacked
+layout: post
+author: byrnes.michael
+permalink: /can-motivation-be-hacked/
+tags:
+- motivation
+source-id: 1n9yxjLpu674XXcIUAvbtHz_FnWXKyt6D3HTace_c6Gg
+published: true
+---
+### **Can Motivation Be Hacked?**
+
+All this information is well and good, but what happens when I'm sitting at my computer for an hour, writing an impossible opening paragraph and fighting the unbearable urge to do anything but? Am I a slacker who's genetically disposed to low dopamine and lack of motivation?
+
+Related
+
+![image alt text]({{ site.url }}/public/iOo8YolwmM9nBoUTsiXA_img_0.jpg)
+
+###### **[Accomplish Any Goal by Doing Something Small, Every Da**y](http://lifehacker.com/accomplish-any-goal-by-doing-something-small-every-day-1491749639)
+
+It takes time to do anything worthwhile, but thankfully, we don't need it all in one chunk. So this year, forget about the year as a whole.…[ Read…](http://lifehacker.com/accomplish-any-goal-by-doing-something-small-every-day-1491749639)
+
+The brain can be trained to feed off of bursts of dopamine sparked by rewarding experiences. You create the dopamine environment, and the brain does the rest. One way to achieve this is by[ setting incremental goals](http://www.edutopia.org/blog/teacher-burnout-neurology-judy-willis-md), according to neurologist Judy Willis. In essence, what you are doing is rewiring the brain to attach a dopamine response to the task you want as a reward. Allow yourself to experience frequent positive feedback as you progress through a[ series of goals](http://lifehacker.com/accomplish-any-goal-by-doing-something-small-every-day-1491749639). Dopamine will flow as a result of your brain's positive reinforcement every time you complete a step and meet a challenge.
+
+Another way to look at the dopamine-motivation angle is to revisit the study mentioned above about go-getters and slackers. You'll notice that dopamine was present in both types of participants, and you'll remember that dopamine engages a vast set of reactions in the body. Dopamine is involved in both ends of the motivation spectrum, both in lighting a fire to persevere and in waving the white flag. Through this lens, motivation becomes less about increasing dopamine, and more about digging deep and being diligent. It should be a marriage of both.
+
+Dopamine has a biological connection to our motivation to achieve. If there's anything we can do to increase the flow of dopamine like reinforcing positive feedback through incremental progress, embrace it. Along with this, we must include effort. Sometimes, the cure for low motivation may simply be old-school determination and perseverance, sticking with doing things even when we don't want to.
+
