@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: Jekyll
 ---
 
 It’s time I start to configure and use my wiz-bang cool Jekyll site.  Only been 2 years!
